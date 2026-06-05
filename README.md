@@ -5,7 +5,7 @@
 Safe, accessible medicine information for Kenyan patients in plain Swahili. Drug interactions, dosage guidance, side effects, generic alternatives, and nearest pharmacy locator — all grounded in KEBS and KMPDB approved drug data.
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dawaai.streamlit.app)
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Why This Matters
 
