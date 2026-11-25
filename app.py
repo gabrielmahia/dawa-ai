@@ -74,4 +74,4 @@ with tab3:
         st.markdown(f'<div class="d-card">{result.replace(chr(10),"<br>")}</div>', unsafe_allow_html=True)
 
 st.markdown("---")
-st.caption("💊 Dawa AI v1.0 | KAMA HALI YA DHARURA: Piga 999 / 112 au nenda hospitali | SHA (bima ya afya): 147 | CC BY-NC-ND 4.0")
+st.caption("💊 Dawa AI v1.0 | KAMA HALI YA DHARURA: Piga 999 / 112 au nenda hospitali | SHA (bima ya afya): 147 | MIT")
